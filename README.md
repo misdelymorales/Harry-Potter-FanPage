@@ -13,7 +13,7 @@
 ***
 
 ## 1. Resumen del proyecto
-Nuestro sitio web es una fanpage con temática de Harry Potter para sus fans, en la cual pueden ver información sobre las películas, personajes, casas de estudio, hechizos y pociones utilizados por los personajes; así como datos curiosos relacionados a la saga. El objetivo es hacer un sitio donde el usuario se sienta cómodo al navegar, que su interfaz sea amigable pero a la vez dinámica y cautivadora. Puedes ver nuestro proyecto final [aquí][github-page-Misdely] o [aquí][github-page-Rossy].
+Nuestro sitio web es una fanpage con temática de Harry Potter para sus fans, en la cual pueden ver información sobre las películas, personajes, casas de estudio, hechizos y pociones utilizados por los personajes; así como datos curiosos relacionados a la saga. El objetivo es hacer un sitio donde el usuario se sienta cómodo al navegar, que su interfaz sea amigable pero a la vez dinámica y cautivadora. Puedes ver nuestro proyecto final [aquí][github-page-Misdely].
 ***
 
 ## 2. Investigación UX
@@ -79,5 +79,4 @@ Se realizaron los test a las funciones de cada página que filtra, ordena y mues
 [prototype-url]: https://www.figma.com/proto/r4WNNhy1BF9AtnZGIKXqRo/HarryPotterPage?page-id=0%3A1&node-id=1%3A2&viewport=449%2C618%2C0.12&scaling=scale-down-width&starting-point-node-id=1%3A2
 [historiaUsuario]: ./src/img/prototype/historiaDeUsuario.PNG
 [testingApp]: ./src/img/test.png
-[github-page-Rossy]: https://rossyalex.github.io/data-lovers/
-[github-page-Misdely]: https://misdelymorales.github.io/data-lovers/
+[github-page-Misdely]: https://misdelymorales.github.io/HarryPotterFanPage/
